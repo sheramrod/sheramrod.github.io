@@ -1,0 +1,139 @@
+h1,h2,h3 {
+    padding-top: 6px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  
+  h2 {
+    font-size: 16px;
+ 
+  }
+  
+  h3 {
+    font-size: 16px;
+    font-style: italic;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-inline-start: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    padding-bottom: 6px;
+  }
+  
+  #blurbs {
+    padding-top: 20px;
+  }
+  
+  #menu {
+    background: rgb(250, 50, 200) ;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    /* border-bottom: 5px solid red;
+    border-top: 5px solid red; */
+  }
+  
+  
+  #menu:link {
+    color: white;
+  }
+  
+  #menu:visited {
+    color: white;
+  }
+  
+  a:link {
+    color: rgb(250, 50, 200);
+  }
+  
+  a:visited {
+    color: rgb(250, 50, 200);
+  
+  }
+  
+ 
+  
+  .social {
+   overflow: auto;
+   width: 100%;
+   background: #0a2172;
+   padding-top: 15px;
+   padding-bottom: 15px;
+
+   /*
+   Un-comment and change below
+   flow to 'right' to put social
+   links on top of the picture.
+   position: absolute;
+   top: 20%;
+   right: 1.5%;
+   */
+  }
+  
+  .social li {
+   list-style-type: none;
+   float: left;
+   font-size: 24px;
+  
+  }
+  
+  ul li a i {
+   background: rgb(250, 50, 200);
+   color: white;
+   width: 32px;
+   height: 32px;
+   font-size: 20px;
+   text-align: center;
+   margin-right: 5px;
+   padding-top: 10%;
+  
+  
+   /* color of social buttons */
+   background: rgb(250, 50, 200);
+  }
+  
+  /*
+    Uncomment to change colors of individual social buttons
+  
+  .fa-linkedin {
+   background:#007bb6;
+  }
+  
+  .fa-github {
+    background:#000000;
+  }
+  
+  .fa-envelope {
+    background: #CC0000;
+  }
+  
+  .fa-home {
+    background: green;
+  }
+  
+  .fa-location-arrow {
+    background: #E6E600;
+  }
+  
+  .fa-phone {
+    background: green;
+  }
+  */
+
+  
+  .himage {
+     position: relative;
+     width: 100%; /* for IE 6 */
+     padding: 0px;
+     /* border: rgb(250, 50, 200) 10px solid; */
+  }
+  
+
+  
