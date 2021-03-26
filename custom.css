@@ -1,3 +1,24 @@
+/* NAV */
+nav {
+  background-color: #ee3d2d;
+  /* background-color: black; */
+  font-weight: 700;
+}
+
+.nav-link{
+  color: white !important;
+  font-size: 16pt;
+  
+}
+
+.nav-item{
+  padding-right: 20px;
+}
+
+/* #content{
+  background: lightgray;
+} */
+
 h1,h2,h3 {
     padding-top: 6px;
   }
@@ -33,7 +54,7 @@ h1,h2,h3 {
   
   #menu {
     /* background: rgb(250, 50, 200); */
-    background: #ee3d2d ;
+    background: #ee3d2d;
     color: white;
     padding-top: 6px;
     padding-bottom: 6px;
