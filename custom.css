@@ -1,8 +1,11 @@
 /* NAV */
 nav {
   background-color: #ee3d2d;
+  /* background-color: #d6c23f; */
+  /* background-color: #f40e97; */
   /* background-color: black; */
   font-weight: 700;
+  border-bottom:10px solid #d6c23f;
 }
 
 .nav-link{
@@ -94,11 +97,11 @@ h1,h2,h3 {
   }
 
   a:link {
-    color: rgb(250, 50, 200);
+    color: #f40e97;
   }
   
   a:visited {
-    color: rgb(250, 50, 200);
+    color: #f40e97;
   
   }
   
